@@ -1444,9 +1444,9 @@ Layer(3 "outline")
 )
 Layer(4 "silk")
 (
-	Text[1675.00mil 1220.00mil 2 100 "CC BY-SA (C) 2019" "clearline,onsolder"]
-	Text[1680.00mil 1300.00mil 2 100 "Iowa Scaled Engineering" "clearline,onsolder"]
-	Text[1680.00mil 1380.00mil 2 100 "https://www.iascaled.com" "clearline,onsolder"]
+	Text[1730.00mil 1190.00mil 2 100 "CC BY-SA (C) 2019" "clearline,onsolder"]
+	Text[1730.00mil 1275.00mil 2 100 "Iowa Scaled Engineering" "clearline,onsolder"]
+	Text[1730.00mil 1360.00mil 2 100 "https://www.iascaled.com" "clearline,onsolder"]
 	Polygon("clearpoly")
 	(
 		[30.3472mm 902.12mil] [30.4477mm 22.8450mm] [30.4823mm 22.7320mm] [30.4686mm 22.6520mm] [30.4188mm 889.31mil] 
